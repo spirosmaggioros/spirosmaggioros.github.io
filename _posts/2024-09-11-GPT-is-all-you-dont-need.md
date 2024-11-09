@@ -3,10 +3,10 @@ layout: post
 title: GPT is all you - don't - need
 ---
 
-Nowadays you always see people using - mostly - ChatGPT to do everything, from homework to just search for random stuff. I am fine with LLM's, though the way
+Nowadays you always see people use - mostly - ChatGPT to do everything, from homework to just search for random stuff. I am fine with LLM's, though the way
 they train them is not correct at all. The gaussian distribution exist everywhere in life and this is the reason - or one of the reasons - that the code produced
 by GPT, Perplexity or other models is completely shit.
-![Gaussian Distribution](../assets/gaussian_dist.png)
+![Gaussian Distribution](../assets/normal_distribution.png)
 It's logicall to tell that there are not many good programmers out there, this is what they gaussian distribution shows. The average exist in the middle, on your
 left you have the bad ones and on your right the 10x developers(i hate this 10x thing). Obviously the "average" data overshadows the "good" data, but there's not a lot you can
 do about it. This semester at my university it's like every single computer science professor is being told to push us into using Chat GPT specifically, i was flabbergasted when i heard our software engineering professor telling us
