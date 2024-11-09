@@ -3,7 +3,7 @@ layout: post
 title: Algorithmic thinking and how did i create AlgoPlus
 ---
 
-### How i study algorithms and how i think
+### How i study algorithms and how do i think
 I wrote my first algorithm when i was 13, it was 3 lines of code written in a pseudolanguage in Greek, using an online compiler they had at that time. This algorithm was reading
 2 integers from the input and returned their sum in the output. I know, magic stuff. But this is where i started. Unfortunately(or fortunately) i grew up on a small island where no one
 knew anything about algorithms, competitive programming or programming in general, this was the best i could do at that time, to buy a high school level book about programming and read it.
