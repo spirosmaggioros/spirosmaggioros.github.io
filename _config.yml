@@ -1,14 +1,13 @@
-title: riggraz
-email: riccardo.graziosi97@gmail.com
-description: riggraz's thoughts
+title: Code review with spiros
+email: spirosmag@ieee.org | Spiros.Maggioros@pennmedicine.upenn.edu
+description: Weekly tech news and code reviews(bashing)
 baseurl: ""
-url: "https://riggraz.dev"
-github_username: riggraz
+url: "github.com/spirosmaggioros"
+github_username: spirosmaggioros
 
 permalink: /:slug.html
 
-favicon: "favicon.png"
-goat_counter: "riggraz" # put your GoatCounter name if you want to use GoatCounter analytics
+# favicon: "favicon.png"
 
 # Build settings
 remote_theme: riggraz/no-style-please
