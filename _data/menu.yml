@@ -1,10 +1,12 @@
 entries:
-  - title: me
+  - title: Where to find me(good luck)
     entries:
       - title: email
         url: mailto:spirosmag@ieee.org
       - title: github
-        url: http://github.com/spirosmaggioros/
+        url: https://github.com/spirosmaggioros/
+      - title: linkedin
+        url: https://linkedin.com/in/spirosmaggioros
 
   - title: posts
     post_list: true
