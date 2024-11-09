@@ -14,7 +14,7 @@ theoretical computer science, but let's go back to algorithms and how do i solve
 a 90% correlation between "good math knowledge" and "good competitive programmer" for my environment. I am pretty good at maths as well, though most of my knowledge is on discrete maths and
 graph theory. The difference between me and them is that they always think theoretically and then implement what they thought, i am doing the exact opposite, i think how the programming languages
 and data structures can help me solve the problem first. It's not like they don't take that into consideration, but if you compare my code and my uni's best competitive programer's code you will see
-that his solution is much more complex than mine, but for the problems we can both solve. Obviously he can solve much more problems than me, we are not even close, and maybe my way of thinking is wrong.
+that his solution is much more complex than mine, but for the problems we can both solve. Obviously he can solve a couple more problems than me and maybe this means that my way of thinking is somewhat wrong.
 What i know for sure is that i am better at implementation and using a programming language. It doesn't matter how long it will take for me to solve a problem, if it's not a competition, i will provide the
 most elegant solution. I knew it since i started and that's why i always felt better implementing complex data structures from scratch than solving hard dynamic programming problems. Maybe i am not that smart
 in the end, but i don't really know. This is what made me create AlgoPlus, my first ever open source project and it's of course about complex data structures. It contains every single thing i know, i hope i
