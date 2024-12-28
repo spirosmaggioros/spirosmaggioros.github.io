@@ -1,5 +1,5 @@
 entries:
-  - title: Where to find me(good luck)
+  - title: Where to find me
     entries:
       - title: email
         url: mailto:spirosmag@ieee.org
@@ -7,6 +7,11 @@ entries:
         url: https://github.com/spirosmaggioros/
       - title: linkedin
         url: https://linkedin.com/in/spirosmaggioros
-
+  - title: Publications
+    entries:
+      - title: Google Scholar
+        url: https://scholar.google.com/citations?user=o7giwIEAAAAJ&hl=el
+      - title: Semantic Scholar
+        url: https://www.semanticscholar.org/author/Spiros-Maggioros/2292200227
   - title: posts
     post_list: true
