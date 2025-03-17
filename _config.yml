@@ -1,13 +1,11 @@
 title: Spiros Maggioros
-email: spirosmag@ieee.org | Spiros.Maggioros@pennmedicine.upenn.edu
+email: Spiros.Maggioros@pennmedicine.upenn.edu | spirosmag@ieee.org
 description:
-  I am Spiros Maggioros, a Research Software Engineer at Penn Medicine - University of Pennsylvania, currently working
+  I am Spiros Maggioros, currently a Research Software Engineer at Penn Medicine - University of Pennsylvania, working
   on the NiChart Project(neuroimagingchart.com). I also study Electrical and Computer Engineering at National Technical
-  University of Athens, currently on my 4th year. My work focuses on Algorithms and Optimization, Machine Learning,
-  Software Engineering and Programming Languages. My biggest project to date is AlgoPlus, a C++17 library for complex
-  data structures and algorithms with 180+ stars on GitHub. My latest publication is "Wildfire danger prediction optimization
-  with transfer learning" that helps with wildfire danger prediction and very soon the NiChart insights paper will come out
-  at AAAI 2025 conference.
+  University of Athens. My work focuses on Deep Learning(mostly Computer Vision and network architecture), MLOps,
+  and making C++ implementations until they create a good package manager.
+  My favorite language is C++, don't ask me why.
 baseurl: ""
 url: "github.com/spirosmaggioros"
 github_username: spirosmaggioros
