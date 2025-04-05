@@ -13,5 +13,11 @@ entries:
         url: https://scholar.google.com/citations?user=o7giwIEAAAAJ&hl=el
       - title: Semantic Scholar
         url: https://www.semanticscholar.org/author/Spiros-Maggioros/2292200227
+  - title: Projects(serious ones)
+    entries:
+        - title: NiChart - Neuro Imaging Chart of AI-based Imaging Biomarkers
+          url: https://neuroimagingchart.com/
+        - title: AlgoPlus
+          url: https://github.com/spirosmaggioros/AlgoPlus
   - title: posts
     post_list: true
