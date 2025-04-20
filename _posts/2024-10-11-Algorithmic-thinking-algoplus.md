@@ -7,10 +7,10 @@ title: Algorithmic thinking and how did i create AlgoPlus
 I wrote my first algorithm when i was 13, it was 3 lines of code written in a pseudolanguage in Greek, using an online compiler they had at that time. This algorithm was reading
 2 integers from the input and returned their sum in the output. I know, magic stuff. But this is where i started. Unfortunately(or fortunately) i grew up on a small island where no one
 knew anything about algorithms, competitive programming or programming in general, this was the best i could do at that time, to buy a high school level book about programming and read it.
-Then 3 years passed and i was 16, i was more mature to understand what i have to do to learn something and this was the time i bought the "Introduction to python" book. Till this day
+Then 3 years passed, i was more mature to understand what i had to do to learn something and this was the time i bought the "Introduction to python" book. Till this day
 python is my 3rd best language, so i don't know if the book was good or not, the conclusion is that **I understood a lot about programming languages**. Since then, i always think that
 algorithms and programming should go together. If an algorithm is not good practically, then i don't even want to study it. This is why i don't know how i feel about the people that are studying
-theoretical computer science, but let's go back to algorithms and how do i solve a problem. Most of the people i know that are good at algorithms are pretty good at maths too. It's like
+theoretical computer science. Most of the people i know that are good at algorithms are pretty good at maths too. It's like
 a 90% correlation between "good math knowledge" and "good competitive programmer" for my environment. I am pretty good at maths as well, though most of my knowledge is on discrete maths and
 graph theory. The difference between me and them is that they always think theoretically and then implement what they thought, i am doing the exact opposite, i think how the programming languages
 and data structures can help me solve the problem first. It's not like they don't take that into consideration, but if you compare my code and my uni's best competitive programer's code you will see
