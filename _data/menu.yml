@@ -3,8 +3,6 @@ entries:
     entries:
       - title: email
         url: mailto:spirosmag@ieee.org
-      - title: Academic email
-        url: mailto:SpirosMaggioros@pennmedicine.upenn.edu
       - title: github
         url: https://github.com/spirosmaggioros/
       - title: linkedin
@@ -21,5 +19,11 @@ entries:
           url: https://neuroimagingchart.com/
         - title: AlgoPlus
           url: https://github.com/spirosmaggioros/AlgoPlus
+  - title: Papers i loved lately
+    entries:
+      - title: SAM - Segment Anything Model
+        url:  https://arxiv.org/pdf/2304.02643
+      - title: Christophides algorithm
+        url: https://web.archive.org/web/20190721172134/https://apps.dtic.mil/dtic/tr/fulltext/u2/a025602.pdf
   - title: posts
     post_list: true
