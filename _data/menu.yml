@@ -17,6 +17,8 @@ entries:
     entries:
         - title: NiChart - Neuro Imaging Chart of AI-based Imaging Biomarkers
           url: https://neuroimagingchart.com/
+        - title: ClusterXX(in production) - Clustering/Manifold/Decomposition methods in modern C++
+          url: https://github.com/spirosmaggioros/ClusterXX
         - title: AlgoPlus
           url: https://github.com/spirosmaggioros/AlgoPlus
   - title: Papers i loved lately
