@@ -3,9 +3,9 @@ email: Spiros.Maggioros@pennmedicine.upenn.edu | spirosmag@ieee.org
 description:
   I am Spiros Maggioros, currently a Research Software Engineer at Penn Medicine - University of Pennsylvania, working
   on the NiChart Project(neuroimagingchart.com). I also study Electrical and Computer Engineering at National Technical
-  University of Athens. My work focuses on Deep Learning(mostly Computer Vision and network architecture), MLOps,
-  and making C++ implementations until they create a good package manager.
-  My favorite language is C++, don't ask me why.
+  University of Athens. My work focuses on Self-Supervised Learning, Foundation Models and making C++ 
+  implementations until they create a good package manager. In my free time i implement algorithms i find intriguing, i also go to a lot 
+  of competitions like the ICPC, IEEXtreme and other hackathons.
 baseurl: ""
 url: "github.com/spirosmaggioros"
 github_username: spirosmaggioros

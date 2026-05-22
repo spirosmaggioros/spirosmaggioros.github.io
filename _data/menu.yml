@@ -23,8 +23,8 @@ entries:
           url: https://github.com/spirosmaggioros/AlgoPlus
   - title: Papers i loved lately
     entries:
-      - title: SAM - Segment Anything Model
-        url:  https://arxiv.org/pdf/2304.02643
+      - title: BYOL - Bootstrap Your Own Latent
+        url:  https://arxiv.org/abs/2006.07733
       - title: Christophides algorithm
         url: https://web.archive.org/web/20190721172134/https://apps.dtic.mil/dtic/tr/fulltext/u2/a025602.pdf
   - title: posts
