@@ -1,15 +1,7 @@
 ---
-permalink: /404.html
-layout: default
+layout: prompt
+title: 404 - Page Not Found
 ---
-
-<style type="text/css" media="screen">
-  h1, h2, p { text-align: center; }
-</style>
-
-<div class="wrapper">
-  <h1>404</h1>
-  <h2>page not found</h2>
-
-  <p><a href="/">back to home</a></p>
-</div>
+<h1 class="mt-5">404</h1>
+<p class="lead">The requested page could not be found.</p>
+<p><a href="{{ '/' | relative_url }}">Go home</a></p>
