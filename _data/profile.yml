@@ -1,12 +1,10 @@
 primary_name: "Spiros Maggioros"
-secondary_name: ""
 navbar_name: "Spiros Maggioros"
 
 positions:
   - name: Machine Learning Researcher
-- name: CBICA, University of Pennsylvania
-  logo: /assets/photos/cbica.png
-
+  - name: CBICA, University of Pennsylvania
+    logo: /assets/photos/cbica.png
 
 email: "Spiros.Maggioros@pennmedicine.upenn.edu"
 # cv_link: link-to-your-cv-file
@@ -18,39 +16,38 @@ linkedin: spirosmaggioros
 short_bio_text_justify: false
 short_bio: >-
   <p>
-   I'm Spiros Maggioros, a Machine Learning Researcher at CBICA, Penn Medicine and also a final year undergraduate student of electrical & computer 
-   engineering at NTUA. I spend most of my time implementing and training 3D Deep Learning models for brain imaging. I'm also interested in generic machine learning/computer vision 
-   algorithms and optimization, contributing to many open source projects over the years.
+    I'm Spiros Maggioros, a Machine Learning Researcher at CBICA, Penn Medicine and also a final year undergraduate student of electrical & computer 
+    engineering at NTUA. I spend most of my time implementing and training 3D Deep Learning models for brain imaging. I'm also interested in generic machine learning/computer vision 
+    algorithms and optimization, contributing to many open source projects over the years.
   </p>
   <p>
     The last two years i'm part of NiChart, a cloud-based application for neuroimaging research that provide wide access to many tools that we develop in CBICA. The NiChart project is 
-    supported, in part, by <b> NIH grants U24NS130411 and RF1AG054409 <b> and the cloud implementation is also supported by <b> Amazon Web Services (AWS) <b>. On NiChart, you can find all of 
+    supported, in part, by <b>NIH grants U24NS130411 and RF1AG054409</b> and the cloud implementation is also supported by <b>Amazon Web Services (AWS)</b>. On NiChart, you can find all of 
     my models including Brain2Vec, DeepSPARE-BA and all derived models.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 
 education:
-- name: National Technical University of Athens
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical & Computer Engineering <br/>
-    Undergraduate, Integrated Masters
-  date: Sep. 2021 - Feb. 2027
-
+  - name: National Technical University of Athens
+    logo: /assets/images/photos/ntua.png
+    position: >-
+      Department of Electrical & Computer Engineering <br/>
+      Undergraduate, Integrated Masters
+    date: Sep. 2021 - Feb. 2027
 
 experience:
-- name: University of Pennsylvania - CBICA
-  logo: /assets/images/photos/cbica.png
-  position: Machine Learning Researcher
-  date: Jul. 2024 - Present
-- name: O.T.E - Hellenic Telekom
-  logo: /assets/images/photos/hellenic_telekom_logo.png
-  position: Machine Learning - Internship
-  date: Jul. 2023 - Aug. 2023
+  - name: University of Pennsylvania - CBICA
+    logo: /assets/images/photos/cbica.png
+    position: Machine Learning Researcher
+    date: Jul. 2024 - Present
+  - name: O.T.E - Hellenic Telekom
+    logo: /assets/images/photos/hellenic_telekom_logo.png
+    position: Machine Learning - Internship
+    date: Jul. 2023 - Aug. 2023
 
 awards:
-- name: Silver Medalist X2 GRCPC (GReek Collegiate Programming Contest)
-  date: 2024-2026
-- name: Cosmote Scholarship
-  date: 2021
+  - name: Silver Medalist X2 GRCPC (GReek Collegiate Programming Contest)
+    date: 2024-2026
+  - name: Cosmote Scholarship
+    date: 2021
