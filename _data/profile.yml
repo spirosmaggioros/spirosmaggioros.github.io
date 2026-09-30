@@ -1,58 +1,56 @@
-primary_name: "Your Name"
+primary_name: "Spiros Maggioros"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Spiros Maggioros"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  - name: Machine Learning Researcher
+- name: CBICA, University of Pennsylvania
+  logo: /assets/photos/cbica.png
 
 
-email: "your@email.com"
+email: "Spiros.Maggioros@pennmedicine.upenn.edu"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# linkedin: your-linked-in-id
+gscholar: user=o7giwIEAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: spirosmaggioros
+linkedin: spirosmaggioros
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+   I'm Spiros Maggioros, a Machine Learning Researcher at CBICA, Penn Medicine and also a final year undergraduate student of electrical & computer 
+   engineering at NTUA. I spend most of my time implementing and training 3D Deep Learning models for brain imaging. I'm also interested in generic machine learning/computer vision 
+   algorithms and optimization, contributing to many open source projects over the years.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    The last two years i'm part of NiChart, a cloud-based application for neuroimaging research that provide wide access to many tools that we develop in CBICA. The NiChart project is 
+    supported, in part, by <b> NIH grants U24NS130411 and RF1AG054409 <b> and the cloud implementation is also supported by <b> Amazon Web Services (AWS) <b>. On NiChart, you can find all of 
+    my models including Brain2Vec, DeepSPARE-BA and all derived models.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: National Technical University of Athens
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Department of Electrical & Computer Engineering <br/>
+    Undergraduate, Integrated Masters
+  date: Sep. 2021 - Feb. 2027
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+
+experience:
+- name: University of Pennsylvania - CBICA
+  logo: /assets/images/photos/cbica.png
+  position: Machine Learning Researcher
+  date: Jul. 2024 - Present
+- name: O.T.E - Hellenic Telekom
+  logo: /assets/images/photos/hellenic_telekom_logo.png
+  position: Machine Learning - Internship
+  date: Jul. 2023 - Aug. 2023
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
+- name: Silver Medalist X2 GRCPC (GReek Collegiate Programming Contest)
+  date: 2024-2026
+- name: Cosmote Scholarship
   date: 2021
