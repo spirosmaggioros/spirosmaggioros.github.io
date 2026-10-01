@@ -6,8 +6,9 @@ pages:
 - name: Publications
   url: /publications
 - name: News
-  url: /News
+  url: /news
 - name: Blog
   url: /blog
 - name: WSI-2026
-  URL: /wsi-2026
+  url: /wsi-2026
+
